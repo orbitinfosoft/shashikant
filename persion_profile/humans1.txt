@@ -1,0 +1,43 @@
+/* AUTHORS */
+
+		Name: Claudio Calautti
+		Contact: claudio[at]creativefrontend.com
+		Twitter: @claudiocalautti
+		Location: London UK
+
+                             ..',;::ccc:cccccccccccc:;,'..
+                          .';ccc:::ccccc::::::::ccccccc:cc;'..
+                      ..,::cccc:ccccccccccc:cc:ccccc::cccccccc;..
+                    .;cccc::cccc::::::;;;;;;;;;;;:::::cc::::ccccc;.
+                 .':ccc:::cc:::;;;,,,,,,,,,,,,,,,,,,,;;;:::::c::ccc:,.
+                ,::cccc:c:::;,,,,,,,,,,,,'''''',,,,,,,,,,,;::::cccc:cc,
+              .:::ccc::::;,,,,,,,,....           ....,,,,,,,,;::ccc::cc:.
+            .,:::cccc:;;,,,,,,..                       ..,,,,,,;100000000
+           .:cc::cc::;,,,,,'.                             .',,,,10000000:
+          .:c:ccc::;,,,,'.                                   .',:100000:
+         'cccccc:;,,,,,.                                       .;10000:.
+        .cccccc:;,,,,'.                                         .1000:.
+        ;:::cc:;,,,,'
+       'cccccc:,,,,'
+       ,ccc:::;,,,,.
+      .::::cc:,,,,'
+      .c::c:c:,,,,.
+      .c::cc:;,,,,.
+      .c::ccc;,,,,.
+      .cc:ccc:,,,,.
+       ;c:::c:;,,,'
+       ,:ccc::;,,,,.
+       .c:ccc::;,,,,.
+        ,cccc:c:,,,,,.
+        .:ccccc::,,,,,.                                         .''''''
+         .::cc:c::,,,,,'.                                     .',,,,;::.
+          .::ccc:::;,,,,,..                                 ..,,,,,;:c:,
+           .;:c:cc:c:;,,,,,,..                           ..,,,,,,;:c:ccc.
+             .:cccc::::;,,,,,,,...                   ...,,,,,,,;:::ccc:c,
+              .;cccccccc:;;,,,,,,,,'.....      ....'',,,,,,,;;::ccccccc;.
+                .;cccc::cc::;;;,,,,,,,,,,,,,,,,,,,,,,,,,,;;::cc:ccccc;.
+                  .;cccc:ccc:c:::;;;,,,,,,,,,,,,,,,;;;::::c::cccccc;.
+                    .';ccccccccc:c::::::::::::::::::::::::cccc::;'.
+                       .';:cccccc::ccccccccccccc:cccccc:ccccc;'.
+                           .,;:c::::::::::::::::cccccc:::;,.
+                              ..,,::::c:::::::::cccc:,,..
